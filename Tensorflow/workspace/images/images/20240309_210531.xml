@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20240309</folder>
+  <filename>20240309_210531.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2992</width>
+    <height>2992</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>crushed</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>538.15</xmin>
+      <ymin>894.23</ymin>
+      <xmax>2670.18</xmax>
+      <ymax>2115.7</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

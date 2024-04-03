@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20240309</folder>
+  <filename>20240309_204329.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2992</width>
+    <height>2992</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>noDefect</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>791.36</xmin>
+      <ymin>25.74</ymin>
+      <xmax>1942.9900000000002</xmax>
+      <ymax>2774.58</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

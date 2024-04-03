@@ -1,0 +1,6 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+crushed:128,0,0::
+noCap:0,128,0::
+noLabel:128,128,0::
+noDefect:0,0,128::

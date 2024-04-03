@@ -1,0 +1,16 @@
+item { 
+	name:'noDefect'
+	id:1
+}
+item { 
+	name:'noCap'
+	id:2
+}
+item { 
+	name:'noLabel'
+	id:3
+}
+item { 
+	name:'crushed'
+	id:4
+}
